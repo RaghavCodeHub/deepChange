@@ -1,0 +1,27 @@
+{
+  "name": "deep-change",
+  "version": "1.0.0",
+  "description": "Institute a deep change to a Javascript object",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavgujjar/deepChange.git"
+  },
+  "keywords": [
+    "object",
+    "deep"
+  ],
+  "author": "raghavgujjar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghavgujjar/deepChange/issues"
+  },
+  "homepage": "https://github.com/raghavgujjar/deepChange#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
