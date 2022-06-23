@@ -26,7 +26,7 @@ deepChange(data, (key) => { /* ... */ }, (value) => { /* ... */ })
 
 `fn2`
 
-&nbsp;This first callback function that gets called only if the value is a primitive data type.
+&nbsp;This second callback function that gets called only if the value is a primitive data type.
 
 &nbsp;`value`
 
