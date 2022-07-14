@@ -108,11 +108,11 @@ console.log(output);
   phoneNumbers: [
     {
       type: 'xxx',
-      number: xxx
+      number: 'xxx'
     },
     {
       type: 'xxx',
-      number: xxx
+      number: 'xxx'
     }
   ]
 }
